@@ -12,5 +12,5 @@ class Config(object):
         'sqlite:///' + os.path.join(basedir, 'app.db')
     SQLALCHEMY_TRACK_MODIFICATIONS = False
 
-    API_TOKEN = '1911247240:AAG4a6xYAEdEL2ziGfixb0GIc8cvPBzVW3Y'
+    API_TOKEN = ''
     PASSWORD = 'Bodya160720'
